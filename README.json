@@ -235,7 +235,7 @@
             "last_commit": "2026-07-27T16:54:15Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21310
+            "stars": 21311
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-03-03T19:26:30Z",
             "owner": "matheusfelipeog",
             "repo": "beautiful-docs",
-            "stars": 9518
+            "stars": 9519
           }
         }
       ],
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:21:01.949Z",
+    "last_updated": "2026-08-13T10:28:23.425Z",
     "original_repository": "cornelius/awesome-open-source",
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",
