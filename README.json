@@ -1,0 +1,418 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Fundamentals"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Licensing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Source License Compliance Handbook",
+          "description": "Detailed guideline how to comply to a large selection of open source licenses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-05-25T22:17:17Z",
+            "owner": "finos",
+            "repo": "OSLC-handbook",
+            "stars": 137
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "License Center",
+          "description": "Categorized list of open source, open content, open data, open hardware licenses",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-08-19T11:47:18Z",
+            "owner": "LeChasseur",
+            "repo": "ifrOSS",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Licenses"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Balanced Employee IP Agreement",
+          "description": "Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-18T19:37:45Z",
+            "owner": "github",
+            "repo": "balanced-employee-ip-agreement",
+            "stars": 2236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The International FOSS Law Book",
+          "description": "Background of how open source is seen from the point of view of legal systems in different countries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-01-17T06:34:21Z",
+            "owner": "IFOSSLawBook",
+            "repo": "ifosslawbook",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Legal"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Building"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vouch",
+          "description": "A system to manage trust in contributors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nushell",
+            "last_commit": "2026-08-09T03:12:23Z",
+            "owner": "mitchellh",
+            "repo": "vouch",
+            "stars": 5053
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Minimum Viable Governance",
+          "description": "A minimum governance model template",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T09:18:04Z",
+            "owner": "github",
+            "repo": "MVG",
+            "stars": 418
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Governance",
+          "description": "Checklist and some pointers regarding open governance in context of open source",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2019-07-24T22:17:09Z",
+            "owner": "opengovernance",
+            "repo": "opengovernance.dev",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Policy: Open Source Contributions",
+          "description": "Template for open source contribution policy",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-09-15T15:32:13Z",
+            "owner": "dbsystel",
+            "repo": "open-source-policies",
+            "stars": 27
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Governance Models",
+          "description": "Collection of data about open source governance models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2022-02-08T23:53:22Z",
+            "owner": "cornelius",
+            "repo": "open-source-governance",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contributions and credit policy for open source projects",
+          "description": "Guide on how to write contribution and credit policies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-08-15T08:16:20Z",
+            "owner": "contribution-credit",
+            "repo": "policy",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Governance Game",
+          "description": "Card game to explore governance of open source projects in the public sector",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-03-06T08:23:03Z",
+            "owner": "publiccodenet",
+            "repo": "governance-game",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Governance"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Contributing Template",
+          "description": "Template for contribution guidelines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-05-24T04:02:58Z",
+            "owner": "nayafia",
+            "repo": "contributing-template",
+            "stars": 735
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "How the top 100 projects on GitHub do user support",
+          "description": "Study about how open source projects do user support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-09-27T15:22:45Z",
+            "owner": "nayafia",
+            "repo": "user-support",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome README",
+          "description": "A curated list of awesome READMEs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-27T16:54:15Z",
+            "owner": "matiassingers",
+            "repo": "awesome-readme",
+            "stars": 21310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Beautiful docs",
+          "description": "Lists of examples of great documentation and tools to generate documentation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-03-03T19:26:30Z",
+            "owner": "matheusfelipeog",
+            "repo": "beautiful-docs",
+            "stars": 9518
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Nadya Eghbal's \"Lemonade Stand\"",
+          "description": "A comprehensive list of funding methods for open source projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-08-06T23:25:45Z",
+            "owner": "nayafia",
+            "repo": "lemonade-stand",
+            "stars": 7683
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FOSS Contributor Fund",
+          "description": "Framework for selecting projects a company supports financially",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": null,
+            "last_commit": "2022-12-05T21:00:27Z",
+            "owner": "indeedeng",
+            "repo": "FOSS-Contributor-Fund",
+            "stars": 74
+          }
+        }
+      ],
+      "title": "Funding"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infrastructure"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Using"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome OSS Management",
+          "description": "List of packages and projects helpful for managing open source projects and offices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T01:05:17Z",
+            "owner": "todogroup",
+            "repo": "awesome-ospo",
+            "stars": 504
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Policy Examples and Templates",
+          "description": "Collection of published open source policies",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-06-28T15:38:56Z",
+            "owner": "todogroup",
+            "repo": "policies",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Source Project Criticatility Score",
+          "description": "Project and tool to quantify criticality of open source projects",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-12-02T00:04:34Z",
+            "owner": "ossf",
+            "repo": "criticality_score",
+            "stars": 1450
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "publiccode.yml",
+          "description": "Standard to express meta data for a repository, used in code for public administration",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-07-28T12:12:22Z",
+            "owner": "publiccodeyml",
+            "repo": "publiccode.yml",
+            "stars": 189
+          }
+        }
+      ],
+      "title": "Project quality"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Support"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Open Source Survey",
+          "description": "GitHub's survey about open source development",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-01-21T17:16:43Z",
+            "owner": "github",
+            "repo": "open-source-survey",
+            "stars": 535
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Source Program Survey",
+          "description": "Survey by TODO Group about open source adoption and open source programs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-24T10:06:32Z",
+            "owner": "todogroup",
+            "repo": "osposurvey",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "Surveys"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:21:01.949Z",
+    "original_repository": "cornelius/awesome-open-source",
+    "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
+    "enhanced_repository": "enhansome/enhansome-open-source",
+    "enhanced_repository_description": null,
+    "title": "Awesome Open Source with stars"
+  }
+}
