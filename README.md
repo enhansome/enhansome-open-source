@@ -46,7 +46,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 #### Licenses
 
-* [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) ⭐ 137 | 🐛 11 | 🌐 HTML | 📅 2026-05-25 - Detailed guideline how to comply to a large selection of open source licenses
+* [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) ⭐ 137 | 🐛 11 | 🌐 HTML | 📅 2026-08-13 - Detailed guideline how to comply to a large selection of open source licenses
 * [License Center](https://github.com/LeChasseur/ifrOSS/blob/master/Lizenzcenter.md) ⭐ 3 | 🐛 0 | 🌐 SCSS | 📅 2025-08-19 - Categorized list of open source, open content, open data, open hardware licenses
 * [OSI approved licenses](https://opensource.org/licenses) - Canonical list of open source software licenses approved by the Open Source Initiative (OSI)
 * [Annotated Open Source Definition](https://opensource.org/osd-annotated) - The definition of open source which is the base for the OSI license list, with rationales
@@ -121,7 +121,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Governance
 
-* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,053 | 🐛 16 | 🌐 Nushell | 📅 2026-08-09 - A system to manage trust in contributors
+* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,057 | 🐛 16 | 🌐 Nushell | 📅 2026-08-09 - A system to manage trust in contributors
 * [Minimum Viable Governance](https://github.com/github/MVG) ⭐ 418 | 🐛 12 | 📅 2024-06-06 - A minimum governance model template
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) ⭐ 43 | 🐛 3 | 📅 2019-07-24 - Checklist and some pointers regarding open governance in context of open source
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) ⭐ 27 | 🐛 1 | 📅 2025-09-15 - Template for open source contribution policy
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Onboarding
 
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,460 | 🐛 172 | 📅 2026-08-13 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,473 | 🐛 178 | 📅 2026-08-14 - Playground for learning the GitHub contribution process by doing it at an example
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
 ### Mentoring
@@ -189,7 +189,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,311 | 🐛 1 | 📅 2026-07-27 - A curated list of awesome READMEs
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,317 | 🐛 1 | 📅 2026-07-27 - A curated list of awesome READMEs
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,519 | 🐛 4 | 📅 2026-03-03 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
@@ -365,4 +365,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._

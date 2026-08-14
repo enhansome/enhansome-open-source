@@ -21,7 +21,7 @@
           "repo_info": {
             "archived": false,
             "language": "HTML",
-            "last_commit": "2026-05-25T22:17:17Z",
+            "last_commit": "2026-08-13T12:58:53Z",
             "owner": "finos",
             "repo": "OSLC-handbook",
             "stars": 137
@@ -97,7 +97,7 @@
             "last_commit": "2026-08-09T03:12:23Z",
             "owner": "mitchellh",
             "repo": "vouch",
-            "stars": 5053
+            "stars": 5057
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-07-27T16:54:15Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21311
+            "stars": 21317
           }
         },
         {
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T10:28:23.425Z",
+    "last_updated": "2026-08-14T10:16:50.474Z",
     "original_repository": "cornelius/awesome-open-source",
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",
