@@ -97,7 +97,7 @@
             "last_commit": "2026-08-09T03:12:23Z",
             "owner": "mitchellh",
             "repo": "vouch",
-            "stars": 5057
+            "stars": 5060
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-07-27T16:54:15Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21317
+            "stars": 21324
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-03-03T19:26:30Z",
             "owner": "matheusfelipeog",
             "repo": "beautiful-docs",
-            "stars": 9519
+            "stars": 9520
           }
         }
       ],
@@ -361,7 +361,7 @@
             "last_commit": "2026-07-28T12:12:22Z",
             "owner": "publiccodeyml",
             "repo": "publiccode.yml",
-            "stars": 189
+            "stars": 190
           }
         }
       ],
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T10:16:50.474Z",
+    "last_updated": "2026-08-15T09:41:06.012Z",
     "original_repository": "cornelius/awesome-open-source",
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",
