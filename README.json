@@ -235,7 +235,7 @@
             "last_commit": "2026-07-27T16:54:15Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21324
+            "stars": 21329
           }
         },
         {
@@ -249,7 +249,7 @@
             "last_commit": "2026-03-03T19:26:30Z",
             "owner": "matheusfelipeog",
             "repo": "beautiful-docs",
-            "stars": 9520
+            "stars": 9522
           }
         }
       ],
@@ -327,7 +327,7 @@
             "last_commit": "2023-06-28T15:38:56Z",
             "owner": "todogroup",
             "repo": "policies",
-            "stars": 200
+            "stars": 201
           }
         }
       ],
@@ -361,7 +361,7 @@
             "last_commit": "2026-07-28T12:12:22Z",
             "owner": "publiccodeyml",
             "repo": "publiccode.yml",
-            "stars": 190
+            "stars": 191
           }
         }
       ],
@@ -386,7 +386,7 @@
             "last_commit": "2025-01-21T17:16:43Z",
             "owner": "github",
             "repo": "open-source-survey",
-            "stars": 535
+            "stars": 534
           }
         },
         {
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T09:41:06.012Z",
+    "last_updated": "2026-08-16T09:42:35.127Z",
     "original_repository": "cornelius/awesome-open-source",
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",

@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Onboarding
 
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,487 | 🐛 180 | 📅 2026-08-15 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,497 | 🐛 172 | 📅 2026-08-16 - Playground for learning the GitHub contribution process by doing it at an example
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
 ### Mentoring
@@ -189,8 +189,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,324 | 🐛 1 | 📅 2026-07-27 - A curated list of awesome READMEs
-* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,520 | 🐛 4 | 📅 2026-03-03 - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,329 | 🐛 1 | 📅 2026-07-27 - A curated list of awesome READMEs
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,522 | 🐛 4 | 📅 2026-03-03 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
@@ -239,7 +239,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Management
 
 * [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) ⭐ 504 | 🐛 14 | 📅 2026-08-03 - List of packages and projects helpful for managing open source projects and offices
-* [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) ⭐ 200 | 🐛 0 | 📅 2023-06-28 - Collection of published open source policies
+* [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) ⭐ 201 | 🐛 0 | 📅 2023-06-28 - Collection of published open source policies
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
 * [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
 * [TODO Group](https://todogroup.org/) - Group of practioners of open source management, initiated by the Linux Foundation
@@ -258,7 +258,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
 * [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
-* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 595 | 🐛 32 | 📅 2026-05-27 - List of materials about SBOMs
+* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 595 | 🐛 33 | 📅 2026-05-27 - List of materials about SBOMs
 * [Cyclone DX](https://cyclonedx.org/) - Standard for SBOM information
 * [Tooling Ecosystem working with CycloneDX](https://docs.google.com/document/d/1biwYXrtoRc_LF7Pw10TO2TGIhlM6jwkDG23nc9M_RiE/edit) - Extensive list of tolls working with CycloneDX information
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
@@ -269,7 +269,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Project quality
 
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,450 | 🐛 88 | 🌐 Go | 📅 2025-12-02 - Project and tool to quantify criticality of open source projects
-* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 190 | 🐛 25 | 🌐 HTML | 📅 2026-07-28 - Standard to express meta data for a repository, used in code for public administration
+* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 191 | 🐛 25 | 🌐 HTML | 📅 2026-07-28 - Standard to express meta data for a repository, used in code for public administration
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
 * [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable
@@ -336,7 +336,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Surveys
 
-* [Open Source Survey](https://github.com/github/open-source-survey) ⭐ 535 | 🐛 0 | 📅 2025-01-21 - GitHub's survey about open source development
+* [Open Source Survey](https://github.com/github/open-source-survey) ⭐ 534 | 🐛 0 | 📅 2025-01-21 - GitHub's survey about open source development
 * [Open Source Program Survey](https://github.com/todogroup/survey) ⭐ 76 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-24 - Survey by TODO Group about open source adoption and open source programs
 * [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2020) - RedHat report about relevance of open source in enterprises
 
@@ -365,4 +365,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
