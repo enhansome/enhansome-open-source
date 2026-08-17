@@ -97,7 +97,7 @@
             "last_commit": "2026-08-09T03:12:23Z",
             "owner": "mitchellh",
             "repo": "vouch",
-            "stars": 5060
+            "stars": 5059
           }
         },
         {
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T09:42:35.127Z",
+    "last_updated": "2026-08-17T09:57:57.995Z",
     "original_repository": "cornelius/awesome-open-source",
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",
