@@ -58,7 +58,7 @@
             "last_commit": "2026-07-18T19:37:45Z",
             "owner": "github",
             "repo": "balanced-employee-ip-agreement",
-            "stars": 2236
+            "stars": 2237
           }
         },
         {
@@ -97,7 +97,7 @@
             "last_commit": "2026-08-09T03:12:23Z",
             "owner": "mitchellh",
             "repo": "vouch",
-            "stars": 5059
+            "stars": 5060
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-07-27T16:54:15Z",
             "owner": "matiassingers",
             "repo": "awesome-readme",
-            "stars": 21329
+            "stars": 21328
           }
         },
         {
@@ -269,7 +269,7 @@
             "last_commit": "2025-08-06T23:25:45Z",
             "owner": "nayafia",
             "repo": "lemonade-stand",
-            "stars": 7683
+            "stars": 7684
           }
         },
         {
@@ -408,7 +408,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T09:57:57.995Z",
+    "last_updated": "2026-08-18T09:48:45.732Z",
     "original_repository": "cornelius/awesome-open-source",
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",
