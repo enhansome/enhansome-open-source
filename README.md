@@ -121,7 +121,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Governance
 
-* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,063 | 🐛 16 | 🌐 Nushell | 📅 2026-08-09 - A system to manage trust in contributors
+* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,064 | 🐛 16 | 🌐 Nushell | 📅 2026-08-09 - A system to manage trust in contributors
 * [Minimum Viable Governance](https://github.com/github/MVG) ⭐ 418 | 🐛 12 | 📅 2024-06-06 - A minimum governance model template
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) ⭐ 43 | 🐛 3 | 📅 2019-07-24 - Checklist and some pointers regarding open governance in context of open source
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) ⭐ 27 | 🐛 1 | 📅 2025-09-15 - Template for open source contribution policy
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Onboarding
 
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,552 | 🐛 87 | 📅 2026-08-19 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,554 | 🐛 87 | 📅 2026-08-19 - Playground for learning the GitHub contribution process by doing it at an example
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
 ### Mentoring
