@@ -121,7 +121,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Governance
 
-* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,072 | 🐛 16 | 🌐 Nushell | 📅 2026-08-09 - A system to manage trust in contributors
+* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,072 | 🐛 16 | 🌐 Nushell | 📅 2026-08-23 - A system to manage trust in contributors
 * [Minimum Viable Governance](https://github.com/github/MVG) ⭐ 418 | 🐛 12 | 📅 2024-06-06 - A minimum governance model template
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) ⭐ 43 | 🐛 3 | 📅 2019-07-24 - Checklist and some pointers regarding open governance in context of open source
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) ⭐ 27 | 🐛 1 | 📅 2025-09-15 - Template for open source contribution policy
@@ -152,7 +152,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [All Contributors](https://allcontributors.org/) - Specification and automation to recognize all contributors, not only code contributors
 * [OpenDRI & GeoNode: A Case Study for Institutional Investments in Open Source](https://opendri.org/resource/opendri-geonode-a-case-study-for-institutional-investments-in-open-source/) - Case study how building a community around an open source project created a 200% return on investment
 * [Social Architecture](https://hintjens.gitbooks.io/social-architecture/content/) - Book about building open source communities
-* [Public Issue Tracker Behaviors](https://github.com/bradfitz/issue-tracker-behaviors) ⭐ 641 | 🐛 5 | 📅 2023-08-17 - List of bad behaviors in issue trackers you better avoid
+* [Public Issue Tracker Behaviors](https://github.com/bradfitz/issue-tracker-behaviors) ⭐ 640 | 🐛 5 | 📅 2023-08-17 - List of bad behaviors in issue trackers you better avoid
 
 ### Development
 
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Onboarding
 
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,611 | 🐛 94 | 📅 2026-08-22 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,633 | 🐛 100 | 📅 2026-08-23 - Playground for learning the GitHub contribution process by doing it at an example
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
 ### Mentoring
@@ -189,7 +189,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,356 | 🐛 1 | 📅 2026-08-20 - A curated list of awesome READMEs
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,358 | 🐛 1 | 📅 2026-08-20 - A curated list of awesome READMEs
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,524 | 🐛 2 | 📅 2026-08-19 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
@@ -202,7 +202,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Funding
 
-* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,684 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
+* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,685 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) ⚠️ Archived - Framework for selecting projects a company supports financially
 * [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
@@ -365,4 +365,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
