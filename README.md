@@ -142,6 +142,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Community
 
+* [Public Issue Tracker Behaviors](https://github.com/bradfitz/issue-tracker-behaviors) ⭐ 640 | 🐛 5 | 📅 2023-08-17 - List of bad behaviors in issue trackers you better avoid
 * [Measuring Engagement](https://docs.google.com/presentation/d/1hsJLv1ieSqtXBzd5YZusY-mB8e1VJzaeOmh8Q4VeMio/edit#slide=id.g4435d357b_20) - Study by Mozilla about how responsiveness affects contributions
 * [Open Source Guides](https://opensource.guide/) - Collection of resources about how to run and contribute to an open source projects
 * [The Art of Community](https://www.jonobacon.com/books/artofcommunity/) - Standard reading on community management
@@ -152,7 +153,6 @@ This list focuses on resources about the why and how to do open source projects,
 * [All Contributors](https://allcontributors.org/) - Specification and automation to recognize all contributors, not only code contributors
 * [OpenDRI & GeoNode: A Case Study for Institutional Investments in Open Source](https://opendri.org/resource/opendri-geonode-a-case-study-for-institutional-investments-in-open-source/) - Case study how building a community around an open source project created a 200% return on investment
 * [Social Architecture](https://hintjens.gitbooks.io/social-architecture/content/) - Book about building open source communities
-* [Public Issue Tracker Behaviors](https://github.com/bradfitz/issue-tracker-behaviors) ⭐ 640 | 🐛 5 | 📅 2023-08-17 - List of bad behaviors in issue trackers you better avoid
 
 ### Development
 
@@ -169,8 +169,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,647 | 🐛 105 | 📅 2026-08-24 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,645 | 🐛 103 | 📅 2026-08-24 - Playground for learning the GitHub contribution process by doing it at an example
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
 ### Mentoring
@@ -255,10 +255,10 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### License compliance
 
+* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 595 | 🐛 34 | 📅 2026-05-27 - List of materials about SBOMs
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
 * [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
-* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 595 | 🐛 33 | 📅 2026-05-27 - List of materials about SBOMs
 * [Cyclone DX](https://cyclonedx.org/) - Standard for SBOM information
 * [Tooling Ecosystem working with CycloneDX](https://docs.google.com/document/d/1biwYXrtoRc_LF7Pw10TO2TGIhlM6jwkDG23nc9M_RiE/edit) - Extensive list of tolls working with CycloneDX information
 * [Clearly Defined](https://clearlydefined.io) - Project of the Open Source Initiative to get clearly defined license data for open source projects
@@ -269,7 +269,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Project quality
 
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,452 | 🐛 89 | 🌐 Go | 📅 2025-12-02 - Project and tool to quantify criticality of open source projects
-* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 192 | 🐛 26 | 🌐 HTML | 📅 2026-08-24 - Standard to express meta data for a repository, used in code for public administration
+* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 192 | 🐛 24 | 🌐 Python | 📅 2026-08-24 - Standard to express meta data for a repository, used in code for public administration
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
 * [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable

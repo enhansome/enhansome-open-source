@@ -83,6 +83,35 @@
           "description": null,
           "node_type": "group",
           "title": "Legal"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Awesome Maintainers",
+                  "description": "Open source maintainers talking about maintaining open source projects",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 118960100,
+                    "language": null,
+                    "last_commit": "2021-08-16T16:23:57Z",
+                    "owner": "nayafia",
+                    "repo": "awesome-maintainers",
+                    "stars": 1170
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Maintainers"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Business"
         }
       ],
       "title": "Fundamentals"
@@ -206,6 +235,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Public Issue Tracker Behaviors",
+              "description": "List of bad behaviors in issue trackers you better avoid",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 663984694,
+                "language": null,
+                "last_commit": "2023-08-17T08:05:02Z",
+                "owner": "bradfitz",
+                "repo": "issue-tracker-behaviors",
+                "stars": 640
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Community"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Contributing Template",
               "description": "Template for contribution guidelines",
               "children": [],
@@ -238,6 +289,28 @@
           "description": null,
           "node_type": "group",
           "title": "Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "First Contributions",
+              "description": "Playground for learning the GitHub contribution process by doing it at an example",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68720867,
+                "language": null,
+                "last_commit": "2026-08-24T13:59:38Z",
+                "owner": "firstcontributions",
+                "repo": "first-contributions",
+                "stars": 55647
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Onboarding"
         },
         {
           "children": [
@@ -360,6 +433,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Awesome SBOM",
+              "description": "List of materials about SBOMs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390993721,
+                "language": null,
+                "last_commit": "2026-05-27T06:02:04Z",
+                "owner": "awesomeSBOM",
+                "repo": "awesome-sbom",
+                "stars": 595
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "License compliance"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "Open Source Project Criticatility Score",
               "description": "Project and tool to quantify criticality of open source projects",
               "children": [],
@@ -381,8 +476,8 @@
               "repo_info": {
                 "archived": false,
                 "id": 139729361,
-                "language": "HTML",
-                "last_commit": "2026-08-24T09:40:09Z",
+                "language": "Python",
+                "last_commit": "2026-08-24T10:22:11Z",
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
                 "stars": 192
@@ -441,7 +536,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:04:41.781Z",
+    "last_updated": "2026-08-24T14:31:41.661Z",
     "original_repository": "cornelius/awesome-open-source",
     "original_repository_id": 186460177,
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
