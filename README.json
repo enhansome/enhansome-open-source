@@ -133,7 +133,7 @@
                 "last_commit": "2026-08-23T03:12:49Z",
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5074
+                "stars": 5075
               }
             },
             {
@@ -301,10 +301,10 @@
                 "archived": false,
                 "id": 68720867,
                 "language": null,
-                "last_commit": "2026-08-26T09:30:34Z",
+                "last_commit": "2026-08-27T11:41:24Z",
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55676
+                "stars": 55692
               }
             }
           ],
@@ -326,7 +326,7 @@
                 "last_commit": "2026-08-20T19:50:09Z",
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21372
+                "stars": 21377
               }
             },
             {
@@ -338,10 +338,10 @@
                 "archived": false,
                 "id": 3105906,
                 "language": null,
-                "last_commit": "2026-08-19T01:58:02Z",
+                "last_commit": "2026-08-27T11:11:04Z",
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9523
+                "stars": 9522
               }
             }
           ],
@@ -363,7 +363,7 @@
                 "last_commit": "2025-08-06T23:25:45Z",
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7687
+                "stars": 7688
               }
             },
             {
@@ -406,7 +406,7 @@
                 "last_commit": "2026-08-03T01:05:17Z",
                 "owner": "todogroup",
                 "repo": "awesome-ospo",
-                "stars": 504
+                "stars": 505
               }
             },
             {
@@ -462,7 +462,7 @@
                 "archived": false,
                 "id": 313674213,
                 "language": "Go",
-                "last_commit": "2026-08-26T05:04:55Z",
+                "last_commit": "2026-08-27T01:38:25Z",
                 "owner": "ossf",
                 "repo": "criticality_score",
                 "stars": 1452
@@ -477,7 +477,7 @@
                 "archived": false,
                 "id": 139729361,
                 "language": "Python",
-                "last_commit": "2026-08-25T18:22:22Z",
+                "last_commit": "2026-08-27T04:39:31Z",
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
                 "stars": 192
@@ -536,9 +536,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T09:57:40.454Z",
-    "original_repository": "cornelius/awesome-open-source",
-    "original_repository_id": 186460177,
+    "last_updated": "2026-08-27T11:55:35.762Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 186460177,
+      "language": null,
+      "last_commit": "2026-04-07T21:06:38Z",
+      "owner": "cornelius",
+      "repo": "awesome-open-source",
+      "stars": 217
+    },
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",
     "enhanced_repository_description": null,
