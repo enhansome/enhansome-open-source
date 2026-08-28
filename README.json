@@ -20,7 +20,8 @@
                     "owner": "finos",
                     "repo": "OSLC-handbook",
                     "stars": 137
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:50:34.245Z"
                 },
                 {
                   "node_type": "item",
@@ -35,7 +36,8 @@
                     "owner": "LeChasseur",
                     "repo": "ifrOSS",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:50:34.245Z"
                 }
               ],
               "description": null,
@@ -62,7 +64,8 @@
                 "owner": "github",
                 "repo": "balanced-employee-ip-agreement",
                 "stars": 2239
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -77,7 +80,8 @@
                 "owner": "IFOSSLawBook",
                 "repo": "ifosslawbook",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -101,7 +105,8 @@
                     "owner": "nayafia",
                     "repo": "awesome-maintainers",
                     "stars": 1170
-                  }
+                  },
+                  "first_seen": "2026-08-28T20:50:34.245Z"
                 }
               ],
               "description": null,
@@ -133,8 +138,9 @@
                 "last_commit": "2026-08-23T03:12:49Z",
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5075
-              }
+                "stars": 5076
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -149,7 +155,8 @@
                 "owner": "github",
                 "repo": "MVG",
                 "stars": 418
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -164,7 +171,8 @@
                 "owner": "opengovernance",
                 "repo": "opengovernance.dev",
                 "stars": 43
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -179,7 +187,8 @@
                 "owner": "dbsystel",
                 "repo": "open-source-policies",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -194,7 +203,8 @@
                 "owner": "cornelius",
                 "repo": "open-source-governance",
                 "stars": 17
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -209,7 +219,8 @@
                 "owner": "contribution-credit",
                 "repo": "policy",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -224,7 +235,8 @@
                 "owner": "publiccodenet",
                 "repo": "governance-game",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -246,7 +258,8 @@
                 "owner": "bradfitz",
                 "repo": "issue-tracker-behaviors",
                 "stars": 640
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -268,7 +281,8 @@
                 "owner": "nayafia",
                 "repo": "contributing-template",
                 "stars": 735
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -283,7 +297,8 @@
                 "owner": "nayafia",
                 "repo": "user-support",
                 "stars": 15
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -301,11 +316,12 @@
                 "archived": false,
                 "id": 68720867,
                 "language": null,
-                "last_commit": "2026-08-27T19:29:46Z",
+                "last_commit": "2026-08-28T20:33:26Z",
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55705
-              }
+                "stars": 55725
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -326,8 +342,9 @@
                 "last_commit": "2026-08-20T19:50:09Z",
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21379
-              }
+                "stars": 21388
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -342,7 +359,8 @@
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
                 "stars": 9524
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -364,7 +382,8 @@
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
                 "stars": 7688
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -379,7 +398,8 @@
                 "owner": "indeedeng",
                 "repo": "FOSS-Contributor-Fund",
                 "stars": 74
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -407,7 +427,8 @@
                 "owner": "todogroup",
                 "repo": "awesome-ospo",
                 "stars": 505
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -422,7 +443,8 @@
                 "owner": "todogroup",
                 "repo": "policies",
                 "stars": 201
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -443,8 +465,9 @@
                 "last_commit": "2026-05-27T06:02:04Z",
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
-                "stars": 595
-              }
+                "stars": 597
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -466,7 +489,8 @@
                 "owner": "ossf",
                 "repo": "criticality_score",
                 "stars": 1452
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -481,7 +505,8 @@
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
                 "stars": 192
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -509,7 +534,8 @@
                 "owner": "github",
                 "repo": "open-source-survey",
                 "stars": 534
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             },
             {
               "node_type": "item",
@@ -524,7 +550,8 @@
                 "owner": "todogroup",
                 "repo": "osposurvey",
                 "stars": 76
-              }
+              },
+              "first_seen": "2026-08-28T20:50:34.245Z"
             }
           ],
           "description": null,
@@ -536,7 +563,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T19:51:01.874Z",
+    "last_updated": "2026-08-28T20:50:34.245Z",
     "original_repository_info": {
       "archived": false,
       "id": 186460177,
