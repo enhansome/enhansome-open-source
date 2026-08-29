@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A data store and handbook of practical information about complying with the most common open source licenses.",
+                    "homepage": null,
                     "id": 174920827,
                     "language": "HTML",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-13T12:58:53Z",
+                    "open_issues": 11,
                     "owner": "finos",
                     "repo": "OSLC-handbook",
-                    "stars": 137
+                    "stars": 137,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:34.245Z"
                 },
@@ -30,12 +35,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Übersicht und Kategorisierung von Freien Lizenzen",
+                    "homepage": null,
                     "id": 135819199,
                     "language": "SCSS",
+                    "license": "NOASSERTION",
                     "last_commit": "2025-08-19T11:47:18Z",
+                    "open_issues": 0,
                     "owner": "LeChasseur",
                     "repo": "ifrOSS",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T20:50:34.245Z"
                 }
@@ -58,12 +68,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "GitHub's employee intellectual property agreement, open sourced and reusable",
+                "homepage": null,
                 "id": 62674936,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-07-18T19:37:45Z",
+                "open_issues": 13,
                 "owner": "github",
                 "repo": "balanced-employee-ip-agreement",
-                "stars": 2239
+                "stars": 2239,
+                "topics": [
+                  "intellectual-property",
+                  "law",
+                  "policy"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -74,12 +93,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The International FOSS Law Book, v.2 and onwards",
+                "homepage": null,
                 "id": 103271581,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-01-17T06:34:21Z",
+                "open_issues": 4,
                 "owner": "IFOSSLawBook",
                 "repo": "ifosslawbook",
-                "stars": 15
+                "stars": 15,
+                "topics": [
+                  "book",
+                  "foss",
+                  "intellectual-property",
+                  "legal",
+                  "licensing"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -99,12 +129,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Talks, blog posts, and interviews about the experience of being an open source maintainer",
+                    "homepage": null,
                     "id": 118960100,
                     "language": null,
+                    "license": "CC0-1.0",
                     "last_commit": "2021-08-16T16:23:57Z",
+                    "open_issues": 0,
                     "owner": "nayafia",
                     "repo": "awesome-maintainers",
-                    "stars": 1170
+                    "stars": 1170,
+                    "topics": [
+                      "awesome",
+                      "awesome-list"
+                    ]
                   },
                   "first_seen": "2026-08-28T20:50:34.245Z"
                 }
@@ -133,12 +171,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A community trust management system based on explicit vouches to participate.",
+                "homepage": null,
                 "id": 1150912706,
                 "language": "Nushell",
+                "license": "MIT",
                 "last_commit": "2026-08-23T03:12:49Z",
+                "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5076
+                "stars": 5076,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -149,12 +192,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "MVG = Minimum Viable Governance",
+                "homepage": null,
                 "id": 387894165,
                 "language": null,
+                "license": "CC-BY-4.0",
                 "last_commit": "2024-06-06T09:18:04Z",
+                "open_issues": 12,
                 "owner": "github",
                 "repo": "MVG",
-                "stars": 418
+                "stars": 418,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -165,12 +213,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "opengovernance.dev",
+                "homepage": "https://opengovernance.dev",
                 "id": 196933569,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2019-07-24T22:17:09Z",
+                "open_issues": 3,
                 "owner": "opengovernance",
                 "repo": "opengovernance.dev",
-                "stars": 43
+                "stars": 43,
+                "topics": [
+                  "governance"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -181,12 +236,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DB Systel Open Source Policies",
+                "homepage": null,
                 "id": 170478710,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2025-09-15T15:32:13Z",
+                "open_issues": 1,
                 "owner": "dbsystel",
                 "repo": "open-source-policies",
-                "stars": 27
+                "stars": 27,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -197,12 +257,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Collection of data about open source governance models",
+                "homepage": "https://cornelius.github.io/open-source-governance/",
                 "id": 136789899,
                 "language": "Ruby",
+                "license": "MIT",
                 "last_commit": "2022-02-08T23:53:22Z",
+                "open_issues": 6,
                 "owner": "cornelius",
                 "repo": "open-source-governance",
-                "stars": 17
+                "stars": 17,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -213,12 +278,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Contributions and Credits Policy",
+                "homepage": null,
                 "id": 768668097,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-15T08:16:20Z",
+                "open_issues": 0,
                 "owner": "contribution-credit",
                 "repo": "policy",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -229,12 +299,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A card game that helps organizations and communities explore governance around a shared codebase, whether hypothetical or in a real-world collaboration.",
+                "homepage": "https://governancegame.publiccode.net",
                 "id": 778859388,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2024-03-06T08:23:03Z",
+                "open_issues": 0,
                 "owner": "publiccodenet",
                 "repo": "governance-game",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -252,12 +327,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 663984694,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-08-17T08:05:02Z",
+                "open_issues": 5,
                 "owner": "bradfitz",
                 "repo": "issue-tracker-behaviors",
-                "stars": 640
+                "stars": 640,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -275,12 +355,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Template for writing your own contributing guide",
+                "homepage": null,
                 "id": 56864679,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2022-05-24T04:02:58Z",
+                "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 735
+                "stars": 735,
+                "topics": [
+                  "checklist",
+                  "community",
+                  "content",
+                  "documentation",
+                  "open-source",
+                  "template"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -291,12 +383,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "User support data for the top 100 GitHub projects by issue volume",
+                "homepage": null,
                 "id": 150607414,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2018-09-27T15:22:45Z",
+                "open_issues": 0,
                 "owner": "nayafia",
                 "repo": "user-support",
-                "stars": 15
+                "stars": 15,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -314,12 +411,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🚀✨ Help beginners to contribute to open source projects",
+                "homepage": "https://firstcontributions.github.io",
                 "id": 68720867,
                 "language": null,
-                "last_commit": "2026-08-28T20:33:26Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T02:06:44Z",
+                "open_issues": 150,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55725
+                "stars": 55728,
+                "topics": [
+                  "beginner",
+                  "beginner-friendly",
+                  "contribute",
+                  "contribution",
+                  "contributions-welcome",
+                  "good-first-contribution",
+                  "good-first-issue",
+                  "good-first-pr",
+                  "open-source",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -337,12 +450,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome READMEs",
+                "homepage": null,
                 "id": 29456624,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-08-20T19:50:09Z",
+                "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21388
+                "stars": 21388,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "list",
+                  "readme"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -353,12 +476,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pointers to useful, well-written, and otherwise beautiful documentation.",
+                "homepage": null,
                 "id": 3105906,
                 "language": null,
+                "license": "MIT",
                 "last_commit": "2026-08-27T11:11:04Z",
+                "open_issues": 2,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9524
+                "stars": 9524,
+                "topics": [
+                  "beautiful",
+                  "beautiful-docs",
+                  "dev",
+                  "developer",
+                  "doc",
+                  "docs",
+                  "documentation",
+                  "documentations",
+                  "list"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -376,12 +514,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A handy guide to financial support for open source",
+                "homepage": null,
                 "id": 61253445,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-08-06T23:25:45Z",
+                "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7688
+                "stars": 7688,
+                "topics": [
+                  "community",
+                  "content",
+                  "documentation",
+                  "funding",
+                  "lists",
+                  "money",
+                  "sponsorships"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -392,12 +543,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This document outlines the processes we use to manage our FOSS Contributor Fund initiative at Indeed.",
+                "homepage": null,
                 "id": 215118859,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-05T21:00:27Z",
+                "open_issues": 4,
                 "owner": "indeedeng",
                 "repo": "FOSS-Contributor-Fund",
-                "stars": 74
+                "stars": 74,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -421,12 +577,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of awesome tools for managing open source programs",
+                "homepage": "https://todogroup.org",
                 "id": 75903395,
                 "language": null,
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-08-03T01:05:17Z",
+                "open_issues": 14,
                 "owner": "todogroup",
                 "repo": "awesome-ospo",
-                "stars": 505
+                "stars": 505,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "opensource",
+                  "todogroup"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -437,12 +603,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Policy Examples and Templates",
+                "homepage": null,
                 "id": 67015980,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2023-06-28T15:38:56Z",
+                "open_issues": 0,
                 "owner": "todogroup",
                 "repo": "policies",
-                "stars": 201
+                "stars": 201,
+                "topics": [
+                  "todogroup"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -460,12 +633,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of SBOM (Software Bill Of Materials) related tools, frameworks, blogs, podcasts, and articles",
+                "homepage": null,
                 "id": 390993721,
                 "language": null,
+                "license": null,
                 "last_commit": "2026-05-27T06:02:04Z",
+                "open_issues": 35,
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
-                "stars": 597
+                "stars": 597,
+                "topics": [
+                  "awesome",
+                  "awesome-repos",
+                  "awesome-sbom",
+                  "sbom",
+                  "sbom-examples",
+                  "sbom-generator",
+                  "software-bill-of-materials"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -483,12 +669,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Gives criticality score for an open source project",
+                "homepage": null,
                 "id": 313674213,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T01:38:25Z",
+                "open_issues": 90,
                 "owner": "ossf",
                 "repo": "criticality_score",
-                "stars": 1452
+                "stars": 1452,
+                "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -499,12 +690,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A metadata standard for public software",
+                "homepage": "https://yml.publiccode.tools",
                 "id": 139729361,
                 "language": "Python",
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-27T04:39:31Z",
+                "open_issues": 34,
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
-                "stars": 192
+                "stars": 192,
+                "topics": [
+                  "discoverability",
+                  "floss",
+                  "government",
+                  "government-procurement",
+                  "metadata-standard",
+                  "publiccode",
+                  "publiccodeyml",
+                  "yml"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -528,12 +733,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The Open Source Survey",
+                "homepage": "https://opensourcesurvey.org",
                 "id": 67646563,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2025-01-21T17:16:43Z",
+                "open_issues": 0,
                 "owner": "github",
                 "repo": "open-source-survey",
-                "stars": 534
+                "stars": 534,
+                "topics": [
+                  "open-source",
+                  "survey"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             },
@@ -544,12 +757,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open Source Programs (OSPO) Survey",
+                "homepage": "https://todogroup.org",
                 "id": 145911827,
                 "language": "Jupyter Notebook",
+                "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-03-24T10:06:32Z",
+                "open_issues": 0,
                 "owner": "todogroup",
                 "repo": "osposurvey",
-                "stars": 76
+                "stars": 76,
+                "topics": [
+                  "opensource",
+                  "survey",
+                  "todogroup"
+                ]
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
             }
@@ -563,15 +785,23 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T20:50:34.245Z",
+    "last_updated": "2026-08-29T04:49:22.609Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of resources related to how to do open source projects",
+      "homepage": null,
       "id": 186460177,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-04-07T21:06:38Z",
+      "open_issues": 0,
       "owner": "cornelius",
       "repo": "awesome-open-source",
-      "stars": 217
+      "stars": 217,
+      "topics": [
+        "awesome-list",
+        "open-source"
+      ]
     },
     "original_repository_sha": "959faf1fdab8bdd7aef99c605611acf79a0ff9b7",
     "enhanced_repository": "enhansome/enhansome-open-source",

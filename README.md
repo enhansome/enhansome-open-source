@@ -169,7 +169,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,725 | 🐛 150 | 📅 2026-08-28 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,728 | 🐛 150 | 📅 2026-08-29 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -365,4 +365,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
