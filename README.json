@@ -180,7 +180,7 @@
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5078,
+                "stars": 5077,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-08-30T14:11:01Z",
-                "open_issues": 156,
+                "last_commit": "2026-08-31T16:54:20Z",
+                "open_issues": 167,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55743,
+                "stars": 55758,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21390,
+                "stars": 21395,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -485,7 +485,7 @@
                 "open_issues": 2,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9524,
+                "stars": 9522,
                 "topics": [
                   "beautiful",
                   "beautiful-docs",
@@ -523,7 +523,7 @@
                 "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7689,
+                "stars": 7688,
                 "topics": [
                   "community",
                   "content",
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T14:25:43.991Z",
+    "last_updated": "2026-08-31T17:04:16.575Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
