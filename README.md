@@ -106,7 +106,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 #### Maintainers
 
-* [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) ⭐ 1,170 | 🐛 0 | 📅 2021-08-16 - Open source maintainers talking about maintaining open source projects
+* [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) ⭐ 1,171 | 🐛 0 | 📅 2021-08-16 - Open source maintainers talking about maintaining open source projects
 * [The role of a maintainer](https://matthewrocklin.com/blog//2019/05/18/maintainer) - Best pratices for open source maintainers
 * [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - A model how people become contributors to open source projects
 * [The Open Source Software Developer Career and Its Benefits](https://dirkriehle.com/publications/2014-selected/the-open-source-software-developer-career-and-its-benefits/) - A model for how developers progress in open source projects and what does this mean for their career
@@ -121,7 +121,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Governance
 
-* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,078 | 🐛 16 | 🌐 Nushell | 📅 2026-08-23 - A system to manage trust in contributors
+* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,080 | 🐛 16 | 🌐 Nushell | 📅 2026-08-23 - A system to manage trust in contributors
 * [Minimum Viable Governance](https://github.com/github/MVG) ⭐ 418 | 🐛 12 | 📅 2024-06-06 - A minimum governance model template
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) ⭐ 43 | 🐛 3 | 📅 2019-07-24 - Checklist and some pointers regarding open governance in context of open source
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) ⭐ 27 | 🐛 1 | 📅 2025-09-15 - Template for open source contribution policy
@@ -134,6 +134,7 @@ This list focuses on resources about the why and how to do open source projects,
 * [Sustainable Free and Open Source Community](https://sfosc.org/) - Principles of sustainable open source communities and overview of possible open source business models
 * [Sustain](https://sustainoss.org/) - Group of people, events, and material about sustainability of open source projects
 * [Determining the True Openness of Open Source Projects](https://www.linuxfoundation.jp/publications/2019/06/determining-true-openness-of-os-projects/) - Definition of areas how to make an open source project, including best and worst practices
+* [Governance guidance for CNCF projects](https://www.cncf.io/blog/2026/08/26/governance-guidance-for-cncf-projects-choosing-the-right-structure-for-your-projects-size-and-stage/) - Analysis and description of governance models and how they contribute to health of a project at different stages
 * [The Four Opens](https://openinfra.dev/four-opens/) - Example of an open governance model
 * [Four Levels Of Open](https://twitter.com/shanecurcuru/status/1283425182053478402) - Another definition of openness beyond the openness of the license
 * [Open Governance Index](https://upload.wikimedia.org/wikipedia/commons/5/5f/VisionMobile_Open_Governance_Index_report.pdf) - Study from 2011 analyzing openness of governance for 8 big open source projects
@@ -169,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,775 | 🐛 168 | 📅 2026-09-01 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,794 | 🐛 171 | 📅 2026-09-02 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -189,8 +190,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,397 | 🐛 1 | 📅 2026-08-20 - A curated list of awesome READMEs
-* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,524 | 🐛 2 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,406 | 🐛 1 | 📅 2026-08-20 - A curated list of awesome READMEs
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,525 | 🐛 2 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
@@ -202,7 +203,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Funding
 
-* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,688 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
+* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,689 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) ⚠️ Archived - Framework for selecting projects a company supports financially
 * [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
@@ -233,6 +234,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 * [Open source and AI-assisted development: navigating the legal issues
   ](https://www.redhat.com/en/blog/ai-assisted-development-and-open-source-navigating-legal-issues) - Pragmatic recommendations how to handle AI generated code in open source contributions from a legal point of view
+* [Responnsible Use of Generative AI](https://www.debian.org/vote/2026/vote_002#texte) - Debian's AI policy as of 2026-28-08, a reasonable and pragmatic view, could set an example
 
 ## Using
 
@@ -268,7 +270,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Project quality
 
-* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,451 | 🐛 91 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
+* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,453 | 🐛 91 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
 * [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 192 | 🐛 34 | 🌐 Python | 📅 2026-08-27 - Standard to express meta data for a repository, used in code for public administration
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
@@ -365,4 +367,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-02._
