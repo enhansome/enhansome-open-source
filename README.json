@@ -77,7 +77,7 @@
                 "open_issues": 13,
                 "owner": "github",
                 "repo": "balanced-employee-ip-agreement",
-                "stars": 2240,
+                "stars": 2239,
                 "topics": [
                   "intellectual-property",
                   "law",
@@ -180,7 +180,7 @@
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5083,
+                "stars": 5085,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -201,7 +201,7 @@
                 "open_issues": 12,
                 "owner": "github",
                 "repo": "MVG",
-                "stars": 418,
+                "stars": 419,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 735,
+                "stars": 736,
                 "topics": [
                   "checklist",
                   "community",
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-04T13:18:27Z",
-                "open_issues": 189,
+                "last_commit": "2026-09-05T11:58:30Z",
+                "open_issues": 190,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55817,
+                "stars": 55822,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21410,
+                "stars": 21414,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -523,7 +523,7 @@
                 "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7689,
+                "stars": 7688,
                 "topics": [
                   "community",
                   "content",
@@ -582,8 +582,8 @@
                 "id": 75903395,
                 "language": null,
                 "license": "CC-BY-SA-4.0",
-                "last_commit": "2026-08-03T01:05:17Z",
-                "open_issues": 15,
+                "last_commit": "2026-09-04T15:38:45Z",
+                "open_issues": 14,
                 "owner": "todogroup",
                 "repo": "awesome-ospo",
                 "stars": 505,
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T13:32:44.109Z",
+    "last_updated": "2026-09-05T12:43:32.846Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
