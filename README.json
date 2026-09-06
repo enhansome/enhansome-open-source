@@ -180,7 +180,7 @@
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5085,
+                "stars": 5086,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-05T11:58:30Z",
-                "open_issues": 190,
+                "last_commit": "2026-09-06T12:33:04Z",
+                "open_issues": 192,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55822,
+                "stars": 55838,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21414,
+                "stars": 21417,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -696,7 +696,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-08-27T04:39:31Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
                 "stars": 192,
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T12:43:32.846Z",
+    "last_updated": "2026-09-06T12:53:21.705Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
