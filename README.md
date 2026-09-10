@@ -46,7 +46,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 #### Licenses
 
-* [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) ⭐ 137 | 🐛 11 | 🌐 HTML | 📅 2026-08-13 - Detailed guideline how to comply to a large selection of open source licenses
+* [Open Source License Compliance Handbook](https://github.com/finos-osr/OSLC-handbook) ⚠️ Archived - Detailed guideline how to comply to a large selection of open source licenses
 * [License Center](https://github.com/LeChasseur/ifrOSS/blob/master/Lizenzcenter.md) ⭐ 3 | 🐛 0 | 🌐 SCSS | 📅 2025-08-19 - Categorized list of open source, open content, open data, open hardware licenses
 * [OSI approved licenses](https://opensource.org/licenses) - Canonical list of open source software licenses approved by the Open Source Initiative (OSI)
 * [Annotated Open Source Definition](https://opensource.org/osd-annotated) - The definition of open source which is the base for the OSI license list, with rationales
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,866 | 🐛 215 | 📅 2026-09-09 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,883 | 🐛 220 | 📅 2026-09-10 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,7 +190,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,430 | 🐛 1 | 📅 2026-08-20 - A curated list of awesome READMEs
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,429 | 🐛 1 | 📅 2026-09-10 - A curated list of awesome READMEs
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,524 | 🐛 2 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
@@ -271,7 +271,7 @@ This list focuses on resources about the why and how to do open source projects,
 ### Project quality
 
 * [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,455 | 🐛 92 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
-* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 192 | 🐛 34 | 🌐 Python | 📅 2026-09-09 - Standard to express meta data for a repository, used in code for public administration
+* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 192 | 🐛 34 | 🌐 Python | 📅 2026-09-10 - Standard to express meta data for a repository, used in code for public administration
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
 * [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable
@@ -367,4 +367,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
