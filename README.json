@@ -138,7 +138,7 @@
                     "open_issues": 0,
                     "owner": "nayafia",
                     "repo": "awesome-maintainers",
-                    "stars": 1171,
+                    "stars": 1172,
                     "topics": [
                       "awesome",
                       "awesome-list"
@@ -180,7 +180,7 @@
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5098,
+                "stars": 5099,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 736,
+                "stars": 737,
                 "topics": [
                   "checklist",
                   "community",
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-12T12:36:48Z",
-                "open_issues": 219,
+                "last_commit": "2026-09-13T11:53:44Z",
+                "open_issues": 223,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 55906,
+                "stars": 55918,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21433,
+                "stars": 21436,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -523,7 +523,7 @@
                 "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7689,
+                "stars": 7690,
                 "topics": [
                   "community",
                   "content",
@@ -678,7 +678,7 @@
                 "open_issues": 92,
                 "owner": "ossf",
                 "repo": "criticality_score",
-                "stars": 1455,
+                "stars": 1456,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -785,7 +785,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T12:51:48.383Z",
+    "last_updated": "2026-09-13T13:48:17.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
