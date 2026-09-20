@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 55,991 | 🐛 243 | 📅 2026-09-19 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,002 | 🐛 246 | 📅 2026-09-20 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,8 +190,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,451 | 🐛 1 | 📅 2026-09-17 - A curated list of awesome READMEs
-* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,530 | 🐛 2 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,456 | 🐛 1 | 📅 2026-09-17 - A curated list of awesome READMEs
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,531 | 🐛 2 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
@@ -368,4 +368,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
