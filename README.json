@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-24T14:05:12Z",
-                "open_issues": 294,
+                "last_commit": "2026-09-25T14:36:33Z",
+                "open_issues": 295,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56065,
+                "stars": 56078,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21476,
+                "stars": 21482,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -485,7 +485,7 @@
                 "open_issues": 3,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9535,
+                "stars": 9536,
                 "topics": [
                   "beautiful",
                   "beautiful-docs",
@@ -523,7 +523,7 @@
                 "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7693,
+                "stars": 7691,
                 "topics": [
                   "community",
                   "content",
@@ -586,7 +586,7 @@
                 "open_issues": 15,
                 "owner": "todogroup",
                 "repo": "awesome-ospo",
-                "stars": 505,
+                "stars": 506,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -639,10 +639,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-27T06:02:04Z",
-                "open_issues": 39,
+                "open_issues": 41,
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
-                "stars": 597,
+                "stars": 598,
                 "topics": [
                   "awesome",
                   "awesome-repos",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T14:12:55.162Z",
+    "last_updated": "2026-09-25T14:36:37.509Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",

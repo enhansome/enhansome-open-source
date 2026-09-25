@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,065 | 🐛 294 | 📅 2026-09-24 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,078 | 🐛 295 | 📅 2026-09-25 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,8 +190,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,476 | 🐛 1 | 📅 2026-09-17 - A curated list of awesome READMEs
-* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,535 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,482 | 🐛 1 | 📅 2026-09-17 - A curated list of awesome READMEs
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,536 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
@@ -203,7 +203,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Funding
 
-* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,693 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
+* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,691 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) ⚠️ Archived - Framework for selecting projects a company supports financially
 * [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
@@ -240,7 +240,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Management
 
-* [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) ⭐ 505 | 🐛 15 | 📅 2026-09-07 - List of packages and projects helpful for managing open source projects and offices
+* [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) ⭐ 506 | 🐛 15 | 📅 2026-09-07 - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) ⭐ 201 | 🐛 0 | 📅 2023-06-28 - Collection of published open source policies
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
 * [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
@@ -258,7 +258,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### License compliance
 
-* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 597 | 🐛 39 | 📅 2026-05-27 - List of materials about SBOMs
+* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 598 | 🐛 41 | 📅 2026-05-27 - List of materials about SBOMs
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
 * [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
@@ -368,4 +368,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
