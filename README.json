@@ -180,7 +180,7 @@
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5113,
+                "stars": 5114,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -245,7 +245,7 @@
                 "open_issues": 1,
                 "owner": "dbsystel",
                 "repo": "open-source-policies",
-                "stars": 27,
+                "stars": 26,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-09-26T13:33:43Z",
-                "open_issues": 301,
+                "last_commit": "2026-09-27T14:37:09Z",
+                "open_issues": 308,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56101,
+                "stars": 56117,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -456,10 +456,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-09-17T17:26:25Z",
-                "open_issues": 1,
+                "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21488,
+                "stars": 21496,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -642,7 +642,7 @@
                 "open_issues": 42,
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "awesome",
                   "awesome-repos",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T13:45:13.960Z",
+    "last_updated": "2026-09-27T14:41:59.309Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
