@@ -78,7 +78,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Legal
 
-* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,241 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
+* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,242 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) ⭐ 15 | 🐛 4 | 📅 2022-01-17 - Background of how open source is seen from the point of view of legal systems in different countries
 * [Model Trademark Guidelines](http://modeltrademarkguidelines.org) - Guidelines for open source projects how to write trademark guidelines
 * [Open Usage Commons](https://openusage.org/) - Organisation for holding trademarks for open source projects
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,186 | 🐛 336 | 📅 2026-10-03 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,192 | 🐛 339 | 📅 2026-10-03 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,7 +190,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,530 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,533 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,538 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
