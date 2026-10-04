@@ -121,7 +121,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Governance
 
-* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,117 | 🐛 16 | 🌐 Nushell | 📅 2026-08-23 - A system to manage trust in contributors
+* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,119 | 🐛 16 | 🌐 Nushell | 📅 2026-08-23 - A system to manage trust in contributors
 * [Minimum Viable Governance](https://github.com/github/MVG) ⭐ 419 | 🐛 12 | 📅 2024-06-06 - A minimum governance model template
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) ⭐ 43 | 🐛 3 | 📅 2019-07-24 - Checklist and some pointers regarding open governance in context of open source
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) ⭐ 26 | 🐛 1 | 📅 2025-09-15 - Template for open source contribution policy
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,192 | 🐛 339 | 📅 2026-10-03 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,202 | 🐛 345 | 📅 2026-10-04 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,8 +190,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,533 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
-* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,538 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,534 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,539 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
@@ -368,4 +368,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
