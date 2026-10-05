@@ -78,7 +78,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Legal
 
-* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,242 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
+* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,244 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) ⭐ 15 | 🐛 4 | 📅 2022-01-17 - Background of how open source is seen from the point of view of legal systems in different countries
 * [Model Trademark Guidelines](http://modeltrademarkguidelines.org) - Guidelines for open source projects how to write trademark guidelines
 * [Open Usage Commons](https://openusage.org/) - Organisation for holding trademarks for open source projects
@@ -121,7 +121,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Governance
 
-* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,119 | 🐛 16 | 🌐 Nushell | 📅 2026-08-23 - A system to manage trust in contributors
+* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,118 | 🐛 16 | 🌐 Nushell | 📅 2026-08-23 - A system to manage trust in contributors
 * [Minimum Viable Governance](https://github.com/github/MVG) ⭐ 419 | 🐛 12 | 📅 2024-06-06 - A minimum governance model template
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) ⭐ 43 | 🐛 3 | 📅 2019-07-24 - Checklist and some pointers regarding open governance in context of open source
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) ⭐ 26 | 🐛 1 | 📅 2025-09-15 - Template for open source contribution policy
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,202 | 🐛 345 | 📅 2026-10-04 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,222 | 🐛 352 | 📅 2026-10-05 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,7 +190,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,534 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,539 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,539 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
@@ -203,7 +203,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Funding
 
-* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,693 | 🐛 17 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
+* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,694 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) ⚠️ Archived - Framework for selecting projects a company supports financially
 * [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
@@ -258,7 +258,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### License compliance
 
-* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 599 | 🐛 42 | 📅 2026-05-27 - List of materials about SBOMs
+* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 598 | 🐛 42 | 📅 2026-05-27 - List of materials about SBOMs
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
 * [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
@@ -339,7 +339,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Surveys
 
-* [Open Source Survey](https://github.com/github/open-source-survey) ⭐ 534 | 🐛 0 | 📅 2025-01-21 - GitHub's survey about open source development
+* [Open Source Survey](https://github.com/github/open-source-survey) ⭐ 535 | 🐛 0 | 📅 2025-01-21 - GitHub's survey about open source development
 * [Open Source Program Survey](https://github.com/todogroup/survey) ⭐ 76 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-24 - Survey by TODO Group about open source adoption and open source programs
 * [The State of Enterprise Open Source](https://www.redhat.com/en/enterprise-open-source-report/2020) - RedHat report about relevance of open source in enterprises
 
@@ -368,4 +368,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
