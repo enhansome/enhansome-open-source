@@ -180,7 +180,7 @@
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5118,
+                "stars": 5120,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-05T17:58:07Z",
-                "open_issues": 352,
+                "last_commit": "2026-10-06T09:49:24Z",
+                "open_issues": 348,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56222,
+                "stars": 56235,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21539,
+                "stars": 21542,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -523,7 +523,7 @@
                 "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7694,
+                "stars": 7693,
                 "topics": [
                   "community",
                   "content",
@@ -642,7 +642,7 @@
                 "open_issues": 42,
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
-                "stars": 598,
+                "stars": 599,
                 "topics": [
                   "awesome",
                   "awesome-repos",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T18:28:38.896Z",
+    "last_updated": "2026-10-06T10:13:29.707Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
