@@ -106,7 +106,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 #### Maintainers
 
-* [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) ⭐ 1,172 | 🐛 0 | 📅 2021-08-16 - Open source maintainers talking about maintaining open source projects
+* [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) ⭐ 1,173 | 🐛 0 | 📅 2021-08-16 - Open source maintainers talking about maintaining open source projects
 * [The role of a maintainer](https://matthewrocklin.com/blog//2019/05/18/maintainer) - Best pratices for open source maintainers
 * [The Open Source Contributor Funnel](https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/) - A model how people become contributors to open source projects
 * [The Open Source Software Developer Career and Its Benefits](https://dirkriehle.com/publications/2014-selected/the-open-source-software-developer-career-and-its-benefits/) - A model for how developers progress in open source projects and what does this mean for their career
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,242 | 🐛 362 | 📅 2026-10-07 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,260 | 🐛 369 | 📅 2026-10-08 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,8 +190,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,545 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
-* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,539 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,548 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,538 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
@@ -203,7 +203,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Funding
 
-* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,693 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
+* [Nadya Eghbal's "Lemonade Stand"](https://github.com/nayafia/lemonade-stand) ⭐ 7,694 | 🐛 16 | 📅 2025-08-06 - A comprehensive list of funding methods for open source projects
 * [FOSS Contributor Fund](https://github.com/indeedeng/FOSS-Contributor-Fund) ⚠️ Archived - Framework for selecting projects a company supports financially
 * [Open Source Software Funding Platforms Registry](https://www.oss.fund/) - List of platforms for funding open source software development
 * [Open Collective](https://opencollective.com/) - Open source platform for managing and connecting projects, fiscal sponsors, and financial contributors
@@ -368,4 +368,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
