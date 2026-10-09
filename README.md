@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,260 | 🐛 369 | 📅 2026-10-08 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,281 | 🐛 374 | 📅 2026-10-09 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,7 +190,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,548 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,551 | 🐛 2 | 📅 2026-09-28 - A curated list of awesome READMEs
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,538 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
@@ -271,7 +271,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Project quality
 
-* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,460 | 🐛 94 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
+* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,460 | 🐛 95 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
 * [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 194 | 🐛 34 | 🌐 Python | 📅 2026-10-01 - Standard to express meta data for a repository, used in code for public administration
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
@@ -368,4 +368,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
