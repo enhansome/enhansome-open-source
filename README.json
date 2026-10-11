@@ -77,7 +77,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "balanced-employee-ip-agreement",
-                "stars": 2244,
+                "stars": 2245,
                 "topics": [
                   "intellectual-property",
                   "law",
@@ -176,11 +176,11 @@
                 "id": 1150912706,
                 "language": "Nushell",
                 "license": "MIT",
-                "last_commit": "2026-08-23T03:12:49Z",
+                "last_commit": "2026-10-11T03:24:12Z",
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5119,
+                "stars": 5120,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-10T14:38:01Z",
-                "open_issues": 377,
+                "last_commit": "2026-10-11T15:38:23Z",
+                "open_issues": 384,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56297,
+                "stars": 56310,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21552,
+                "stars": 21555,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -639,7 +639,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-27T06:02:04Z",
-                "open_issues": 43,
+                "open_issues": 44,
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
                 "stars": 600,
@@ -678,7 +678,7 @@
                 "open_issues": 95,
                 "owner": "ossf",
                 "repo": "criticality_score",
-                "stars": 1460,
+                "stars": 1461,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T15:23:11.194Z",
+    "last_updated": "2026-10-11T15:41:42.783Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
@@ -795,7 +795,7 @@
       "id": 186460177,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-15T17:25:27Z",
+      "last_commit": "2026-10-11T14:10:13Z",
       "open_issues": 0,
       "owner": "cornelius",
       "repo": "awesome-open-source",
@@ -805,7 +805,7 @@
         "open-source"
       ]
     },
-    "original_repository_sha": "3c54ffa15f9fd2650626a460baed9a5b7af72669",
+    "original_repository_sha": "1afb3dc3d2f653a378eb0feda0a6fd1ab7488ee1",
     "enhanced_repository": "enhansome/enhansome-open-source",
     "enhanced_repository_description": null,
     "title": "Awesome Open Source with stars"
