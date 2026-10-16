@@ -78,7 +78,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Legal
 
-* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,246 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
+* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,247 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) ⭐ 15 | 🐛 4 | 📅 2022-01-17 - Background of how open source is seen from the point of view of legal systems in different countries
 * [Model Trademark Guidelines](http://modeltrademarkguidelines.org) - Guidelines for open source projects how to write trademark guidelines
 * [Open Usage Commons](https://openusage.org/) - Organisation for holding trademarks for open source projects
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,363 | 🐛 461 | 📅 2026-10-15 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,379 | 🐛 466 | 📅 2026-10-16 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,8 +190,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,569 | 🐛 2 | 📅 2026-10-14 - A curated list of awesome READMEs
-* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,543 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,572 | 🐛 2 | 📅 2026-10-14 - A curated list of awesome READMEs
+* [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,544 | 🐛 3 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
 * [You are what you document](https://www.ybrikman.com/writing/2014/05/05/you-are-what-you-document/) - Guides and good examples for all kinds of documentation
@@ -271,8 +271,8 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Project quality
 
-* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,463 | 🐛 99 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
-* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 195 | 🐛 35 | 🌐 Python | 📅 2026-10-15 - Standard to express meta data for a repository, used in code for public administration
+* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,464 | 🐛 99 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
+* [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 195 | 🐛 25 | 🌐 Python | 📅 2026-10-15 - Standard to express meta data for a repository, used in code for public administration
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
 * [What does a sustainable open source project look like?](https://medium.com/libraries-io/what-does-a-sustainable-open-source-project-look-like-bf9b8cf824f8) - Criteria of what makes an open source project sustainable
@@ -369,4 +369,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
