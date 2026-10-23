@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-22T14:11:36Z",
-                "open_issues": 497,
+                "last_commit": "2026-10-23T13:59:20Z",
+                "open_issues": 499,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56470,
+                "stars": 56484,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -456,10 +456,10 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-10-14T09:03:07Z",
-                "open_issues": 2,
+                "open_issues": 3,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21602,
+                "stars": 21605,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -639,7 +639,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-27T06:02:04Z",
-                "open_issues": 48,
+                "open_issues": 49,
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
                 "stars": 600,
@@ -675,10 +675,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T01:38:25Z",
-                "open_issues": 99,
+                "open_issues": 98,
                 "owner": "ossf",
                 "repo": "criticality_score",
-                "stars": 1474,
+                "stars": 1473,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T14:30:57.212Z",
+    "last_updated": "2026-10-23T14:14:34.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
