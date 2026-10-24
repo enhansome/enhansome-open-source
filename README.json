@@ -180,7 +180,7 @@
                 "open_issues": 16,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5131,
+                "stars": 5132,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -201,7 +201,7 @@
                 "open_issues": 12,
                 "owner": "github",
                 "repo": "MVG",
-                "stars": 419,
+                "stars": 420,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-10-23T13:59:20Z",
-                "open_issues": 499,
+                "last_commit": "2026-10-24T12:38:44Z",
+                "open_issues": 540,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56484,
+                "stars": 56501,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -455,11 +455,11 @@
                 "id": 29456624,
                 "language": null,
                 "license": null,
-                "last_commit": "2026-10-14T09:03:07Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-23T17:31:50Z",
+                "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21605,
+                "stars": 21609,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -583,7 +583,7 @@
                 "language": null,
                 "license": "CC-BY-SA-4.0",
                 "last_commit": "2026-09-07T01:06:50Z",
-                "open_issues": 15,
+                "open_issues": 16,
                 "owner": "todogroup",
                 "repo": "awesome-ospo",
                 "stars": 505,
@@ -678,7 +678,7 @@
                 "open_issues": 98,
                 "owner": "ossf",
                 "repo": "criticality_score",
-                "stars": 1473,
+                "stars": 1472,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T14:14:34.631Z",
+    "last_updated": "2026-10-24T13:20:13.962Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
