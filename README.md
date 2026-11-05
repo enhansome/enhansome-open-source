@@ -78,7 +78,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Legal
 
-* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,247 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
+* [Balanced Employee IP Agreement](https://github.com/github/balanced-employee-ip-agreement) ⭐ 2,248 | 🐛 14 | 📅 2026-09-10 - Reusable agreement which makes sure employees keep the rights on side projects they do not do as part of their job
 * [The International FOSS Law Book](https://github.com/IFOSSLawBook/ifosslawbook) ⭐ 15 | 🐛 4 | 📅 2022-01-17 - Background of how open source is seen from the point of view of legal systems in different countries
 * [Model Trademark Guidelines](http://modeltrademarkguidelines.org) - Guidelines for open source projects how to write trademark guidelines
 * [Open Usage Commons](https://openusage.org/) - Organisation for holding trademarks for open source projects
@@ -121,7 +121,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Governance
 
-* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,158 | 🐛 18 | 🌐 Nushell | 📅 2026-10-11 - A system to manage trust in contributors
+* [Vouch](https://github.com/mitchellh/vouch) ⭐ 5,162 | 🐛 18 | 🌐 Nushell | 📅 2026-10-11 - A system to manage trust in contributors
 * [Minimum Viable Governance](https://github.com/github/MVG) ⭐ 420 | 🐛 12 | 📅 2024-06-06 - A minimum governance model template
 * [Open Governance](https://github.com/opengovernance/opengovernance.dev) ⭐ 43 | 🐛 3 | 📅 2019-07-24 - Checklist and some pointers regarding open governance in context of open source
 * [Policy: Open Source Contributions](https://github.com/dbsystel/open-source-policies/blob/master/contribution-policy/contribution-guideline.en.adoc) ⭐ 26 | 🐛 1 | 📅 2025-09-15 - Template for open source contribution policy
@@ -170,7 +170,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Onboarding
 
-* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,692 | 🐛 634 | 📅 2026-11-04 - Playground for learning the GitHub contribution process by doing it at an example
+* [First Contributions](https://github.com/firstcontributions/first-contributions/blob/master/README.md) ⭐ 56,713 | 🐛 642 | 📅 2026-11-05 - Playground for learning the GitHub contribution process by doing it at an example
 * [First Timers Only](https://www.firsttimersonly.com/) - Introduction how to start with open source contributions with links to projects helping with that
 * [How students can get started contributing to open source software](https://opensource.com/education/16/1/how-students-get-started-open-source) - Overview of programs for students to get started with open source
 
@@ -190,7 +190,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Documentation
 
-* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,673 | 🐛 3 | 📅 2026-10-23 - A curated list of awesome READMEs
+* [Awesome README](https://github.com/matiassingers/awesome-readme) ⭐ 21,675 | 🐛 3 | 📅 2026-10-23 - A curated list of awesome READMEs
 * [Beautiful docs](https://github.com/PharkMillups/beautiful-docs/) ⭐ 9,547 | 🐛 5 | 📅 2026-08-27 - Lists of examples of great documentation and tools to generate documentation
 * [How to write documentation that's actually useful](https://www.hpe.com/us/en/insights/articles/how-to-write-documentation-thats-actually-useful-1707.html) - Tips how to write good documentation
 * [Make a README](https://www.makeareadme.com/) - Guidance on why and how to write a README
@@ -240,7 +240,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Management
 
-* [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) ⭐ 506 | 🐛 16 | 📅 2026-09-07 - List of packages and projects helpful for managing open source projects and offices
+* [Awesome OSS Management](https://github.com/todogroup/awesome-oss-mgmt) ⭐ 506 | 🐛 17 | 📅 2026-09-07 - List of packages and projects helpful for managing open source projects and offices
 * [Open Source Policy Examples and Templates](https://github.com/todogroup/policies) ⭐ 201 | 🐛 0 | 📅 2023-06-28 - Collection of published open source policies
 * [Open Source Guides for the Enterprise](https://www.linuxfoundation.org/resources/open-source-guides/) - Resources for running an open source program office
 * [Open Source Program Offices: The Primer on Organizational Structures, Roles and Responsibilities, and Challenges](https://www.linkedin.com/pulse/open-source-program-offices-primer-organizational-roles-haddad/) - Comprehensive overview about how Open Source Program Offices work
@@ -258,7 +258,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### License compliance
 
-* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 603 | 🐛 55 | 📅 2026-05-27 - List of materials about SBOMs
+* [Awesome SBOM](https://github.com/awesomeSBOM/awesome-sbom) ⭐ 603 | 🐛 56 | 📅 2026-05-27 - List of materials about SBOMs
 * [SPDX](https://spdx.org/) - Standards to represent and communicate license information
 * [Tooling Ecosystem working with SPDX](https://docs.google.com/document/d/1A1jFIYihB-IyT0gv7E_KoSjLbwNGmu_wOXBs6siemXA/edit) - Extensive list of tools working with SPDX information
 * [Software Bill of Materials](https://www.ntia.gov/SBOM) - Explanations and examples about what a Sotware Bill of Materials is and how it's used
@@ -271,7 +271,7 @@ This list focuses on resources about the why and how to do open source projects,
 
 ### Project quality
 
-* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,481 | 🐛 98 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
+* [Open Source Project Criticatility Score](https://github.com/ossf/criticality_score) ⭐ 1,480 | 🐛 98 | 🌐 Go | 📅 2026-08-27 - Project and tool to quantify criticality of open source projects
 * [publiccode.yml](https://github.com/publiccodeyml/publiccode.yml) ⭐ 197 | 🐛 27 | 🌐 Python | 📅 2026-11-03 - Standard to express meta data for a repository, used in code for public administration
 * [OpenSSF Best Practices Badge Program](https://bestpractices.coreinfrastructure.org) - The Open Source Security Foundation's self-certification program for demonstrating adherence to best open source practices
 * [How you know your Free of Open Source Software Project is doomed to FAIL](https://spot.livejournal.com/308370.html) - Tom Callaway's famous post about what not to do when running an open source project
@@ -369,4 +369,4 @@ This list is licensed under [CC0](https://creativecommons.org/publicdomain/zero/
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-05._
