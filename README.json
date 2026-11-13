@@ -138,7 +138,7 @@
                     "open_issues": 0,
                     "owner": "nayafia",
                     "repo": "awesome-maintainers",
-                    "stars": 1174,
+                    "stars": 1173,
                     "topics": [
                       "awesome",
                       "awesome-list"
@@ -180,7 +180,7 @@
                 "open_issues": 19,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5172,
+                "stars": 5174,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -364,7 +364,7 @@
                 "open_issues": 3,
                 "owner": "nayafia",
                 "repo": "contributing-template",
-                "stars": 738,
+                "stars": 739,
                 "topics": [
                   "checklist",
                   "community",
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-12T16:58:01Z",
-                "open_issues": 703,
+                "last_commit": "2026-11-13T16:41:48Z",
+                "open_issues": 712,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56821,
+                "stars": 56839,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -485,7 +485,7 @@
                 "open_issues": 5,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9551,
+                "stars": 9552,
                 "topics": [
                   "beautiful",
                   "beautiful-docs",
@@ -523,7 +523,7 @@
                 "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7704,
+                "stars": 7705,
                 "topics": [
                   "community",
                   "content",
@@ -695,7 +695,7 @@
                 "id": 139729361,
                 "language": "Python",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-12T15:46:13Z",
+                "last_commit": "2026-11-13T12:16:06Z",
                 "open_issues": 26,
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T17:35:56.724Z",
+    "last_updated": "2026-11-13T17:12:56.759Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
@@ -795,8 +795,8 @@
       "id": 186460177,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-11T14:10:13Z",
-      "open_issues": 0,
+      "last_commit": "2026-11-12T18:50:20Z",
+      "open_issues": 2,
       "owner": "cornelius",
       "repo": "awesome-open-source",
       "stars": 218,
