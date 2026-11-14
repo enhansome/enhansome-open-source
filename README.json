@@ -180,7 +180,7 @@
                 "open_issues": 19,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5174,
+                "stars": 5176,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-13T16:41:48Z",
-                "open_issues": 712,
+                "last_commit": "2026-11-14T15:47:25Z",
+                "open_issues": 714,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56839,
+                "stars": 56863,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 2,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21715,
+                "stars": 21718,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -485,7 +485,7 @@
                 "open_issues": 5,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9552,
+                "stars": 9555,
                 "topics": [
                   "beautiful",
                   "beautiful-docs",
@@ -693,13 +693,13 @@
                 "description": "A metadata standard for public software",
                 "homepage": "https://publiccodeyml.github.io",
                 "id": 139729361,
-                "language": "Python",
+                "language": "HTML",
                 "license": "CC0-1.0",
-                "last_commit": "2026-11-13T12:16:06Z",
+                "last_commit": "2026-11-14T14:38:01Z",
                 "open_issues": 26,
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
-                "stars": 197,
+                "stars": 198,
                 "topics": [
                   "floss",
                   "government",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T17:12:56.759Z",
+    "last_updated": "2026-11-14T15:49:04.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
