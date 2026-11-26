@@ -77,7 +77,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "balanced-employee-ip-agreement",
-                "stars": 2252,
+                "stars": 2253,
                 "topics": [
                   "intellectual-property",
                   "law",
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-25T19:15:39Z",
-                "open_issues": 626,
+                "last_commit": "2026-11-26T18:55:24Z",
+                "open_issues": 635,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 56997,
+                "stars": 57001,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21769,
+                "stars": 21775,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -485,7 +485,7 @@
                 "open_issues": 5,
                 "owner": "matheusfelipeog",
                 "repo": "beautiful-docs",
-                "stars": 9551,
+                "stars": 9552,
                 "topics": [
                   "beautiful",
                   "beautiful-docs",
@@ -612,7 +612,7 @@
                 "open_issues": 0,
                 "owner": "todogroup",
                 "repo": "policies",
-                "stars": 201,
+                "stars": 200,
                 "topics": [
                   "todogroup"
                 ]
@@ -678,7 +678,7 @@
                 "open_issues": 98,
                 "owner": "ossf",
                 "repo": "criticality_score",
-                "stars": 1489,
+                "stars": 1490,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -696,7 +696,7 @@
                 "language": "Python",
                 "license": "CC0-1.0",
                 "last_commit": "2026-11-25T17:37:21Z",
-                "open_issues": 21,
+                "open_issues": 20,
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
                 "stars": 199,
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T19:16:58.005Z",
+    "last_updated": "2026-11-26T19:00:07.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
@@ -799,7 +799,7 @@
       "open_issues": 2,
       "owner": "cornelius",
       "repo": "awesome-open-source",
-      "stars": 218,
+      "stars": 217,
       "topics": [
         "awesome-list",
         "open-source"
