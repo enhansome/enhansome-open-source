@@ -77,7 +77,7 @@
                 "open_issues": 14,
                 "owner": "github",
                 "repo": "balanced-employee-ip-agreement",
-                "stars": 2253,
+                "stars": 2252,
                 "topics": [
                   "intellectual-property",
                   "law",
@@ -180,7 +180,7 @@
                 "open_issues": 19,
                 "owner": "mitchellh",
                 "repo": "vouch",
-                "stars": 5197,
+                "stars": 5199,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -416,11 +416,11 @@
                 "id": 68720867,
                 "language": null,
                 "license": "MIT",
-                "last_commit": "2026-11-26T18:55:24Z",
-                "open_issues": 635,
+                "last_commit": "2026-11-27T18:58:30Z",
+                "open_issues": 640,
                 "owner": "firstcontributions",
                 "repo": "first-contributions",
-                "stars": 57001,
+                "stars": 57013,
                 "topics": [
                   "beginner",
                   "beginner-friendly",
@@ -459,7 +459,7 @@
                 "open_issues": 1,
                 "owner": "matiassingers",
                 "repo": "awesome-readme",
-                "stars": 21775,
+                "stars": 21780,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -523,7 +523,7 @@
                 "open_issues": 16,
                 "owner": "nayafia",
                 "repo": "lemonade-stand",
-                "stars": 7709,
+                "stars": 7708,
                 "topics": [
                   "community",
                   "content",
@@ -639,7 +639,7 @@
                 "language": null,
                 "license": null,
                 "last_commit": "2026-05-27T06:02:04Z",
-                "open_issues": 65,
+                "open_issues": 66,
                 "owner": "awesomeSBOM",
                 "repo": "awesome-sbom",
                 "stars": 605,
@@ -678,7 +678,7 @@
                 "open_issues": 98,
                 "owner": "ossf",
                 "repo": "criticality_score",
-                "stars": 1490,
+                "stars": 1493,
                 "topics": []
               },
               "first_seen": "2026-08-28T20:50:34.245Z"
@@ -699,7 +699,7 @@
                 "open_issues": 20,
                 "owner": "publiccodeyml",
                 "repo": "publiccode.yml",
-                "stars": 199,
+                "stars": 200,
                 "topics": [
                   "floss",
                   "government",
@@ -787,7 +787,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T19:00:07.257Z",
+    "last_updated": "2026-11-27T18:59:27.234Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of resources related to how to do open source projects",
